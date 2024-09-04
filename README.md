@@ -2,6 +2,14 @@
 
 Hello. This is my first project learn next js. This project is inspired by learning from JavaScript Mastery.
 here the demo : https://yu-car-rent-lhlg.vercel.app/
+In this project i learn :
+- Use Next.js 13 App Router and Server side Rendering
+- Implement Advanced Search Functionality
+- Create Filtering Capabilities
+- Optimize Metadata and SEO
+- Create custom filter, combo box, and modal elements
+- Maintain a well-organized file and folder structure.
+- Embrace the principles of writing clean code.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
